@@ -1,4 +1,4 @@
-module beepafter
+module github.com/kitsunemikan/beepafter
 
 go 1.22.1
 

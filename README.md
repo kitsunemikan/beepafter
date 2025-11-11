@@ -12,5 +12,5 @@ beepafter rm filedoesntexist.txt # will play failure jingle
 ### Install
 
 ```powershell
-go install https://github.com/kitsunemikan/beepafter@latest
+go install github.com/kitsunemikan/beepafter@latest
 ```
